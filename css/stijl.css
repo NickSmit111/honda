@@ -42,7 +42,7 @@ section {
         }
 
 .navbar-brand {
-            color: #4088db;
+            color: #ffffff;
             font-weight: bold;
             position: relative;
             animation: beweging2 0.8s infinite;
@@ -52,3 +52,4 @@ section {
             50% {left: 5px;}
             100% {left: 0px;}
             }
+
