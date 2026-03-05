@@ -13,7 +13,7 @@ nav{
 img{ border-radius: 40px;
             }
 #linkje{
-        color: rgb(255, 255, 255);
+        color: #4088db;
         font-size: 20;
     }
 .nav-link{
@@ -52,5 +52,6 @@ section {
             50% {left: 5px;}
             100% {left: 0px;}
             }
+
 
 
