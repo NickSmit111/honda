@@ -17,7 +17,7 @@ img{ border-radius: 40px;
         font-size: 20;
     }
 .nav-link{
-        color: #ffffff;
+        color: #4088db;
     }
     
 .nav-link:active{
@@ -52,6 +52,7 @@ section {
             50% {left: 5px;}
             100% {left: 0px;}
             }
+
 
 
 
