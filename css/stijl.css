@@ -28,7 +28,7 @@ p{color: rgb(238, 238, 238)}
 
 section {
         position: relative;
-        animation: beweging 2s infinite;
+        animation: beweging 2s;
         }
         #div1 {animation-timing-function: ease;}
         #div2 {animation-timing-function: linear;}
@@ -52,4 +52,5 @@ section {
             50% {left: 5px;}
             100% {left: 0px;}
             }
+
 
