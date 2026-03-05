@@ -17,11 +17,11 @@ img{ border-radius: 40px;
         font-size: 20;
     }
 .nav-link{
-        color: #4088db;
+        color: #293133;
     }
     
 .nav-link:active{
-        color: #4088db;
+        color: #293133;
     }
 
 p{color: rgb(238, 238, 238)}
@@ -52,6 +52,7 @@ section {
             50% {left: 5px;}
             100% {left: 0px;}
             }
+
 
 
 
