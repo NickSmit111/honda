@@ -13,15 +13,15 @@ nav{
 img{ border-radius: 40px;
             }
 #linkje{
-        color: #293133;
+        color: #4088db;
         font-size: 20;
     }
 .nav-link{
-        color: #293133;
+        color: #4088db;
     }
     
 .nav-link:active{
-        color: #293133;
+        color: #4088db;
     }
 
 p{color: rgb(238, 238, 238)}
@@ -42,7 +42,7 @@ section {
         }
 
 .navbar-brand {
-            color: #293133;
+            color: #4088db;
             font-weight: bold;
             position: relative;
             animation: beweging2 0.8s infinite;
@@ -52,6 +52,7 @@ section {
             50% {left: 5px;}
             100% {left: 0px;}
             }
+
 
 
 
